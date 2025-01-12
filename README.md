@@ -12,3 +12,4 @@
 
 # OUTPUT OF THE TASK
 
+![Screenshot (6)](https://github.com/user-attachments/assets/007c967a-c509-48a3-ae72-491b02ad67fb)
